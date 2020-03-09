@@ -6,7 +6,7 @@ In order to provide this information to you, we analyzed 3016 unique pieces of d
 ## Your top performers
 
 Your campaigns were analyzed by category and it was clearly determined that theater and music are your organization's fundraising strengths. 
-![Overview by Category](/SheriKarasick/kickstarter-analysis/blob/master/ParentCatOutcomes.png)
+![Overview by Category](/blob/master/ParentCatOutcomes.png)
 
 Within this categories, you strove to examine new ventures in the United Kingdom. The following analyses will guide you in being successful in these endeavors:
 * Per capita investment in UK based productions is maximized at a rate of under 2000 pounds per donation. 
