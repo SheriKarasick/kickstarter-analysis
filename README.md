@@ -61,9 +61,9 @@ Given the impact of your launch date on the success of your Kickstarter Campaign
 
 Finally, we noted earlier in the analysis that Fever was modestly successful having reached 86% of its fundraising goal in less than a month, we wanted to explore of campaign length influenced the success or failure of a campaign, specifically for the Plays for which you are raising funds. 
 
-![Overview by Category](/SvFCampaignTime.png)
+![Success vs Failure Considering Run Time](/SvFCampaignTime.png)
 
-Based on this analysis, it does not appear that there is a significant impact on a plays campaign success based on the runtime of the campaign.  The data doesn't necessarily affirm that your most popular 30 day fundraising window is more or less successful than any other runtime based on the extant data set (which only contains 73 points for analysis).
+Based on this analysis, it does not appear that there is a significant impact on a play's campaign success based on the runtime of the campaign.  The data doesn't necessarily affirm that your most popular 30 day fundraising window is more or less successful than any other runtime based on the extant data set (which only contains 73 points for analysis).
 
 
 
