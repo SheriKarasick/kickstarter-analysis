@@ -39,7 +39,15 @@ This graph informs us about your overall programmatic success for the Category "
 
 As you can see from the graph:
 * Plays that are launched in May are significantly more likely to reach their goals than any other month of the year. The proximal months of April, June and July are also strong months for acheiving goal success.
-* Plays launched in December are near qually likely to succeed (37) or fail (35) based on past play performance. 
+* Plays launched in December are near qually likely to succeed (n=37) or fail (n=35) based on past play performance. 
 
 
-let's talk about your other successes so that we can leverage the power of your robust data set to ensure success on future ventures.
+Given the impact of launch date on the success of your programming, we wanted to take a closer look at how your play performance acted as an influencer in your plays that had those midrange fundraising goals between $20,000 and $45,000. 
+
+
+
+This graph shows you: 
+
+
+Let's talk about your other successes so that we can leverage the power of your robust data set to ensure success on future ventures.
+
