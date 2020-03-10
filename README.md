@@ -30,7 +30,7 @@ This graph will help you examine how the goals you set for a program influence i
 
 You may observe from this visualization: 
   * Plays that successful met their fundraising goals, had lower dollar amount goals in the spectrum of goals.  
-  * Plays between $20,000 and $45,000 were nearly equivalent in their rates of success.
+  * Plays between $15,000 and $45,000 were nearly equivalent in their rates of success.
   * Plays with goals of more than $45,000 were much more likely to fail at reaching their fundraising goals than succeed. 
 
 This graph informs us about your overall programmatic success for the Category "Theater".  This category includes your plays, musicals, and spaces.   It provides additional guidance to what might be your most successful theater season for launching your campaigns.  
@@ -42,12 +42,11 @@ As you can see from the graph:
 * Plays launched in December are near qually likely to succeed (n=37) or fail (n=35) based on past play performance. 
 
 
-Given the impact of launch date on the success of your programming, we wanted to take a closer look at how your play performance acted as an influencer in your plays that had those midrange fundraising goals between $20,000 and $45,000. 
+Given the impact of launch date on the success of your programming, we wanted to take a closer look at how your play performance acted as an influencer in your plays that had those midrange fundraising goals between $15,000 and $45,000. 
+
+![Overview by Category](/Midrangegoalsbylaunch.png)
+
+If you desire to pursue a play that falls in the mid-range fundraising category, you are more likely to acheive success at meeting your fundraising goals in the fall month of September than any other month.  If you want to task a risk on a play that you are really excited about -- your past data would advise you to launch that play in a month that is atypical based on your other success based data. 
 
 
-
-This graph shows you: 
-
-
-Let's talk about your other successes so that we can leverage the power of your robust data set to ensure success on future ventures.
 
